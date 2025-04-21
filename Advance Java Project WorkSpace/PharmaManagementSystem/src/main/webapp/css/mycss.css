@@ -1,0 +1,6 @@
+@charset "ISO-8859-1";
+
+.mydisabled {
+	pointer-events: none;
+	opacity: 0.5;
+}
